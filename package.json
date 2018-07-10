@@ -1,0 +1,17 @@
+{
+  "name": "what-i-buy",
+  "version": "1.0.0",
+  "description": "aws lambda function for alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishin Fukuoka",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
