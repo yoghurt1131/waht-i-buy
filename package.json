@@ -7,10 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ishin Fukuoka",
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "alexa-sdk": "^1.0.25",
+    "loadash": "^1.0.0",
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
   }
